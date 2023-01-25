@@ -8,5 +8,6 @@ installation of bash
 
 introduction to shell and command line
 
-*Day three*
-introduction to github
+**Day three**
+1.introduction to github
+2.creating github account
