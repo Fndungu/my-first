@@ -1,4 +1,4 @@
-#  my-first
+# my-first
 
 my first repository to creat
 
@@ -10,8 +10,11 @@ installation of bash
 
 **Day two**
 
-introduction to shell and command line
+**introduction to command line**
+1.introducing the shell
+2. what is commandline and why should i use one?
+3. Navigating files and directories
 
 **Day three**
+introduction of git
 
-introduction to github
